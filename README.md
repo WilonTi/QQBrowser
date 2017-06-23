@@ -5,4 +5,4 @@
 4)触发切换事件的时候添加类名来触发切换动画
 
 预览地址
-https://callmeric.github.io/BrowserWebsite/
+https://wilonti.github.io/QQBrowser/.
